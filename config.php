@@ -8,7 +8,7 @@ $config['images_path'] = "images/uploads/";
 $config['about_01'] = "About";
 $config['about_02'] = "Hello! My name is John Doe";
 $config['about_03'] = "Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum.";
-$config['about_04'] = "BENİ TAKİP EDİN...";
+$config['about_04'] = "FOLLOW ME...";
 
 // social media
 $config['twitter'] = "https://www.twitter.com/";
